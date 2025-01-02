@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;javaprogarm/src/ece/btech3/Enum.java&apos;" deleteContents="false" description="Delete resource &apos;javaprogarm/src/ece/btech3/Enum.java&apos;" element1="/javaprogarm/src/ece/btech3/Enum.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1734761622430"/>
+</session>

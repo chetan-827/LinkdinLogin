@@ -1,0 +1,9 @@
+package ece.btech1;
+
+public class ThrowandThrows {
+
+	public ThrowandThrows() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

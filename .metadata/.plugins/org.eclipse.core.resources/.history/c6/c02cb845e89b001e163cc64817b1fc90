@@ -1,0 +1,24 @@
+package ece.btech2;
+
+public class Program7 {
+
+	public static void main(String[] args) {
+		length("aparna");
+		length("sunny");
+		length("Inturi chaitanya sai 123 from ece");
+		mylength("HI hello");
+		mylength("MY NAME IS CHETANSAI");
+		concat("chetan");
+		
+	}
+	public static void length(String name) {
+		System.out.println(name.length());
+	}
+	public static void mylength(String name) {
+		System.out.println(name.indexOf("hello"));
+		System.out.println(name.toLowerCase());
+	}
+	public static void concat(String firstname ,String lastname) {
+		System.out.println(firstname.concat(lastname));
+	}
+}

@@ -1,0 +1,15 @@
+package ece.btech2;
+
+public class Program7 {
+
+	public static void main(String[] args) {
+		length("aparna");
+		length("sunny");
+		length("Inturi chaitanya sai 123 from ece");
+
+	}
+	public static void length(String name) {
+		System.out.println(name.index());
+	}
+
+}

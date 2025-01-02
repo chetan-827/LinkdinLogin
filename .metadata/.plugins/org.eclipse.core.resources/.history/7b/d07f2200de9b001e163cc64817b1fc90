@@ -1,0 +1,23 @@
+package ece.btech2;
+
+public class Program6 {
+	public static int i;
+	public static void main(String[]args) {
+		number(5);
+	}
+	public static void number( int number) {
+		System.out.println("list of even numbers from 1 to "+number+":");
+		for(int i=1; i<=number;i++) {
+			if(i%2==0) {
+				System.out.println(i+" The number is even");
+			}else {
+				System.out.println(i+" The number is odd");
+			}
+		}
+	}
+	public static void value(int number) {
+		for(int i=1; i<=number;i++) {
+			System.out.println(i);
+		}
+	}
+}

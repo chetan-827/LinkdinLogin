@@ -1,0 +1,16 @@
+package ece.btech2;
+
+public class Program5 {
+
+	public static void main(String[] args) {
+		
+		namePrint("Aparna");
+		namePrint("Uday");
+		namePrint("Uma");
+		namePrint("Murthy");
+		
+	}
+	public static void namePrint(String name) {
+		System.out.println("Hi "+name+" How are you?");
+	}
+}
